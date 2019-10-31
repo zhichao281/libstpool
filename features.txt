@@ -1,0 +1,10 @@
+### v3.x 待支持新特性
+
+1. 支持设置最大的排队任务数 + 过载策略 (丢弃, 等待, caller_error_handler, pool_error_handler) 
+2. 任务支持调度timeout支持
+
+
+### 优化:
+  .P2P动态调度模式优化 => IO Manager模式调度 ?
+
+
