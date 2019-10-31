@@ -1,5 +1,6 @@
 .简介
 ----
+https://gitee.com/libstpool/libstpool
 libstpool是一个开源的轻便的跨平台的动态c/c++线程池，任务池库, 支持Windows, Linux, Unix, ARM, MAC/OSX, NDK，提供丰富的特性支持.
 			    
 
